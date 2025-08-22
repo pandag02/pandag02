@@ -53,7 +53,7 @@ Cloud / DevOps: ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?s
 - 🎤 MicroSoft사에서 주최한 AOAI 행사 발표(백엔드 초보 대학생에게 AOAI를 던져주면 생기는 일)  
 
 **2024**  
-- ⚖️ LLM 판결문 번역 서비스  
+- ⚖️ 수상(최우수상):2024 AIoT 창의적 종합설계 경진대회(바로봄: LLM 판결문 번역 서비스) 
 - 👵 고령 인구를 위한 인지 훈련 프로그램  
 - 📦 Stock-Tracker (물류 관리용 웹사이트)  
 
