@@ -1,7 +1,7 @@
 ## 성실함과 깊이 있는 몰입을 갖춘 개발자 이소연입니다.
 ### 🌟 About Me
 
-🎓 [동국대학교/컴퓨공학전공/2025.08 수료]
+🎓 [동국대학교/컴퓨공학전공/2026.08 졸업]
 
 💻 관심 분야: [백엔드 개발 / AI 응용 / IoT]
 
@@ -14,13 +14,14 @@
 ---
 ### 🛠 Tech Stack
 
-Languages: ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
+Languages: 
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-
-
-Frameworks: ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) 
+Frameworks: 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 Databases: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
@@ -45,9 +46,11 @@ Cloud / DevOps: ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?s
 ---
 
 ## 🕑 활동 연혁  
+**2026**
+- 🎓 동국대학교 컴퓨터공학전공 졸업(2026.08)
 
 **2025**  
-- 🎓 동국대학교 컴퓨터공학전공 졸업 예정 (8월 수료)  
+- 🏢 DesignMeAI 입사(2025.06)
 - 🐼 PandaAPI  
 - 💬 AI Duo Chat  
 - 🎤 MicroSoft사에서 주최한 AOAI 행사 발표(백엔드 초보 대학생에게 AOAI를 던져주면 생기는 일)  
